@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f3434a0-7e10-4b66-bd25-4f90d88d4655" name="Changes" comment="" />
+    <list default="true" id="6f3434a0-7e10-4b66-bd25-4f90d88d4655" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/dto/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/dto/Person.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -308,7 +310,7 @@
       <workItem from="1685963540840" duration="738000" />
       <workItem from="1687347547597" duration="764000" />
       <workItem from="1687348334783" duration="1031000" />
-      <workItem from="1687350616472" duration="4093000" />
+      <workItem from="1687350616472" duration="4155000" />
     </task>
     <servers />
   </component>

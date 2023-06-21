@@ -4,6 +4,7 @@ package dto;
  * @author Mahdi Mohammadi, 5/26/2023 9:34 PM
  */
 public class Person {
+    //comment1
     private String name;
     private String family;
 
